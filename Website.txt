@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <body bgcolor= #483D8B>
+    <head>
+         <title>DryPage</title>
+         <style>
+            h1 {
+                 color: #00CED1	;
+                 font-family:verdana;
+                 text-align: center;
+            }
+            p {
+                color: #F0FFFF;
+                 font-family:verdana;
+            }
+            img {
+                 opacity: 0.5;
+            }
+
+            img:hover {
+                     opacity: 1.0;
+            }
+            body {
+                 background-image: url('img_girl.jpg');
+            }
+        </style>
+    </head>
+    <h1>WEBSITE</h1>
+    
+    <p>
+        Cool Website.
+    </p>
+    <img src=https://th.bing.com/th/id/R.614880cb94a8fa841dc06e2bc0c21305?rik=rG5pyQKLBtLAog&riu=http%3a%2f%2fsportsorthopaedics.com.sg%2fwp-content%2fuploads%2f2014%2f05%2fnews-23.jpg&ehk=brR%2bMn22VfCQXOeCy2twA84EDOzidPhF7LJ%2f7bZ4114%3d&risl=&pid=ImgRaw&r=0 alt="Cool" width="120" height="120">
+    
+</html>
